@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+div {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+span {
+  font-weight: bold;
+}
